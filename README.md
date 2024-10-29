@@ -13,3 +13,4 @@ Repositorio usado para las clases de IAW
 - [Miércoles 23/10/2024](/Schedule/UD2/Lunes%2021-10-2024%20a%20jueves%2024-10-2024.md)
 - [Jueves 24/10/2024](/Schedule/UD2/Lunes%2021-10-2024%20a%20jueves%2024-10-2024.md)
 - [Lunes 28/10/2024](/Schedule/UD2/Lunes%2028-10-2024.md)
+- [Miércoles 30/10/2024](/Schedule/UD2/Miércoles%2030-10-2024%20a%20jueves%2024-10-2024.md)
