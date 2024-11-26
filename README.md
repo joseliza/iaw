@@ -16,4 +16,4 @@ Repositorio usado para las clases de IAW
 
 #### UD3. Administración y gestión de gestores de contenidos
 - [Lunes 04/11/2024 a jueves 14/11/2024](/Schedule/UD3/Lunes%2004-11-2024%20a%20jueves%2014-11-2024.md)
-- [Lunes 25/11/2024](/Schedule/UD3/Lunes%2025-11-2024.md)
+- [Lunes 25/11/2024 y miércoles 27/11/2024](/Schedule/UD3/Lunes%2025-11-2024%20y%20miércoles%2027-11-2024.md)
