@@ -19,3 +19,4 @@ Repositorio usado para las clases de IAW
 #### UD4. Introducción a la programación
 - [Miércoles 04/12/2024](/Schedule/UD4/Miércoles%2004-12-2024.md)
 - [Jueves 05/12/2024](/Schedule/UD4/Jueves%2005-12-2024.md) - Examen 1
+- [Miércoles 11/12/2024](/Schedule/UD4/Miércoles%2011-12-2024.md)
