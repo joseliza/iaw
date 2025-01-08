@@ -24,3 +24,4 @@ Repositorio usado para las clases de IAW
 - [Lunes 16/12/2024](/Schedule/UD4/Lunes%2016-12-2024.md)
 - [Miércoles 18/12/2024](/Schedule/UD4/Miércoles%2018-12-2024.md)
 - [Miércoles 08/01/2025](/Schedule/UD4/Miércoles%2008-01-2025.md)
+- [Jueves 09/01/2025](/Schedule/UD4/Jueves%2009-01-2025.md)
