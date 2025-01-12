@@ -18,10 +18,11 @@ Repositorio usado para las clases de IAW
 
 #### UD4. Introducción a la programación
 - [Miércoles 04/12/2024](/Schedule/UD4/Miércoles%2004-12-2024.md)
-- [Jueves 05/12/2024](/Schedule/UD4/Jueves%2005-12-2024.md) - Examen 1
+- [Jueves 05/12/2024](/Schedule/UD4/Jueves%2005-12-2024.md): Examen 1.
 - [Miércoles 11/12/2024](/Schedule/UD4/Miércoles%2011-12-2024.md)
 - [Jueves 12/12/2024](/Schedule/UD4/Jueves%2012-12-2024.md)
 - [Lunes 16/12/2024](/Schedule/UD4/Lunes%2016-12-2024.md)
 - [Miércoles 18/12/2024](/Schedule/UD4/Miércoles%2018-12-2024.md)
 - [Miércoles 08/01/2025](/Schedule/UD4/Miércoles%2008-01-2025.md)
-- [Jueves 09/01/2025](/Schedule/UD4/Jueves%2009-01-2025.md)
+- [Jueves 09/01/2025](/Schedule/UD4/Jueves%2009-01-2025.md): Condicionales, bucles, listas y tuplas.
+- [Lunes 13/01/2025](/Schedule/UD4/Lunes%2013-01-2025.md): Listas, tuplas y diccionarios.
