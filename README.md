@@ -28,3 +28,4 @@ Repositorio usado para las clases de IAW
 - [Lunes 13/01/2025](/Schedule/UD4/Lunes%2013-01-2025.md): Listas, tuplas y diccionarios.
 - [Miércoles 15/01/2025](/Schedule/UD4/Miércoles%2015-01-2025.md): Procedimientos y funciones.
 - [Jueves 16/01/2025](/Schedule/UD4/Jueves%2016-01-2025.md): Aprendemos a crear un menú para nuestra aplicación.
+- [Lunes 20/01/2025](/Schedule/UD4/Lunes%2020-01-2025.md): Partiendo de una agenda y un menú, construimos nuestra aplicación agenda.
