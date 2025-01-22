@@ -30,4 +30,5 @@ Repositorio usado para las clases de IAW
 - [Jueves 16/01/2025](/Schedule/UD4/Jueves%2016-01-2025.md): Aprendemos a crear un menú para nuestra aplicación.
 - [Lunes 20/01/2025](/Schedule/UD4/Lunes%2020-01-2025.md): Partiendo de una agenda y un menú, construimos nuestra aplicación agenda.
 - [Miércoles 22/01/2025](/Schedule/UD4/Miércoles%2022-01-2025.md): Manejo de errores en Python.
+- [Jueves 23/01/2025](/Schedule/UD4/Jueves%2023-01-2025.md): Conectando nuestras aplicaciones a MySQL.
 
