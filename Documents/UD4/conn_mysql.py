@@ -4,7 +4,7 @@ import pymysql
 conexion = pymysql.connect(
     host="10.3.29.20",
     port=33060,
-    user="admin",
+    user="root",
     password="usuario",
     database="agenda_db"
 )
