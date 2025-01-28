@@ -32,4 +32,5 @@ Repositorio usado para las clases de IAW
 - [Miércoles 22/01/2025](/Schedule/UD4/Miércoles%2022-01-2025.md): Manejo de errores en Python.
 - [Jueves 23/01/2025](/Schedule/UD4/Jueves%2023-01-2025.md): Conectando nuestras aplicaciones a MySQL.
 - [Lunes 27/01/2025](/Schedule/UD4/Lunes%2027-01-2025.md): Persistiendo nuestra aplicación agenda en una base de datos en MySQL.
+- [Miércoles 29/01/2025](/Schedule/UD4/Lunes%2027-01-2025.md): Solucionamos la versión de nuestra agenda con persistencia en MySQL.
 
