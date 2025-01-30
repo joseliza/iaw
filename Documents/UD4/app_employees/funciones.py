@@ -14,10 +14,10 @@ DATABASE = "employees"
 def mostrar_empleado(conn):
     borra_pantalla()
     mi_cursor = conn.cursor()
-    mi_cursor.execute("SELECT * FROM contactos")
+    mi_cursor.execute("SELECT * FROM employees")
     resultados = mi_cursor.fetchall()
     for fila in resultados:
-        print(f"Nombre: {fila[1]}, Teléfono: {fila[2]}")
+        print(f"{fila[0]}, {fila[1]}, {fila[2]}, {fila[3]}, {fila[4]}, {fila[5]}")
     input("Pulsa una tecla para continuar...")
 
 
@@ -26,7 +26,14 @@ def agregar_empleado(conn):
 
 
 def buscar_empleado(conn):
-    pass
+    borra_pantalla()
+    cod = input("Introduce el código del empleado: ")
+    mi_cursor = conn.cursor()
+    mi_cursor.execute("SELECT * FROM employees where emp_no = %s", (cod))
+    resultados = mi_cursor.fetchall()
+    for fila in resultados:
+        print(f"{fila[0]}, {fila[1]}, {fila[2]}, {fila[3]}, {fila[4]}, {fila[5]}")
+    input("Pulsa una tecla para continuar...")
 
 
 def eliminar_empleado(conn):
