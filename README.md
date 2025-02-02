@@ -36,4 +36,5 @@ Repositorio usado para las clases de IAW
 - [Lunes 27/01/2025](/Schedule/UD4/Lunes%2027-01-2025.md): Persistiendo nuestra aplicación agenda en una base de datos en MySQL.
 - [Miércoles 29/01/2025](/Schedule/UD4/Miércoles%2029-01-2025.md): Solucionamos la versión de nuestra agenda con persistencia en MySQL.
 - [Jueves 30/01/2025](/Schedule/UD4/Jueves%2030-01-2025.md): Os propongo un ejercicio con un menú que permita listar los empleados y buscar y actualizar un empleado de la tabla employees de MySQL.
+- [Lunes 03/02/2025](/Schedule/UD4/Lunes%2003-02-2025.md): Agregamos Copilot Free a Visual Studio Code y terminamos el ejercicio propuesto el pasado jueves.
 
