@@ -1,0 +1,24 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Contactos</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Teléfono</th>
+        </tr>
+        {% for nombre, telefono in agenda.items() %}
+        <tr>
+            <td>{{ nombre }}</td>
+            <td>{{ telefono }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
+
+
+
