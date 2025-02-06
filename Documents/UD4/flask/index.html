@@ -2,23 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lista de Contactos</title>
+    <title>Agenda</title>
 </head>
 <body>
-    <table>
-        <tr>
-            <th>Nombre</th>
-            <th>Teléfono</th>
-        </tr>
-        {% for nombre, telefono in agenda.items() %}
-        <tr>
-            <td>{{ nombre }}</td>
-            <td>{{ telefono }}</td>
-        </tr>
-        {% endfor %}
-    </table>
+    <h1>Agenda de Contactos</h1>
+    <nav>
+        <a href="/listar">Listar contactos</a>
+        <a href="/buscar">Buscar contactos</a>
+        <a href="/insertar">Insertar contacto</a>
+        <a href="/borrar">Borrar contacto</a>
+    </nav>
+    <hr>
+    {% block content %}
+    {% endblock %}
 </body>
 </html>
-
-
-

@@ -4,8 +4,9 @@ from agenda import agenda
 app = Flask(__name__)
 
 @app.route("/")
+def menu():
+    return render_template("index.html")
+
+@app.route("/listar")
 def listar():
     return render_template("listar.html", agenda=agenda)
-
-if __name__ == "__main__":
-    app.run(debug=True)
