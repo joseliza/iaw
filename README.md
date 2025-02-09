@@ -23,7 +23,7 @@ Repositorio usado para las clases de IAW
 - [Jueves 05/12/2024](/Schedule/UD4/Jueves%2005-12-2024.md): Examen 1.
 - [Miércoles 11/12/2024](/Schedule/UD4/Miércoles%2011-12-2024.md)
 - [Jueves 12/12/2024](/Schedule/UD4/Jueves%2012-12-2024.md)
-- [Lunes 16/12/2024](/Schedule/UD4/Lunes%2016-12-2024.md)
+- [Lunes 16/12/2024](/Schedule/UD4/Lun+es%2016-12-2024.md)
 - [Miércoles 18/12/2024](/Schedule/UD4/Miércoles%2018-12-2024.md)
 - [Miércoles 08/01/2025](/Schedule/UD4/Miércoles%2008-01-2025.md)
 - [Jueves 09/01/2025](/Schedule/UD4/Jueves%2009-01-2025.md): Condicionales, bucles, listas y tuplas.
@@ -39,3 +39,6 @@ Repositorio usado para las clases de IAW
 - [Lunes 03/02/2025](/Schedule/UD4/Lunes%2003-02-2025.md): Agregamos Copilot Free a Visual Studio Code y terminamos el ejercicio propuesto el pasado jueves.
 - [Miércoles 05/02/2025](/Schedule/UD4/Miércoles%2005-02-2025.md): Comenzamos el estudio del framework Flask y sus templates.
 - [Jueves 06/02/2025](/Schedule/UD4/Jueves%2006-02-2025.md): Framework Flask. Repaso de templates y herencia. 
+- [Lunes 10/02/2025](/Schedule/UD4/Lunes%2010-02-2025.md): Framework Flask. Nuestra agenda con persistencia en MySQL:
+    - [Repositorio de github flask-agenda](https://github.com/joseliza/flask-agenda). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en un diccionario)
+    - [Repositorio de github flask-agenda-db](https://github.com/joseliza/flask-agenda-db). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en una base de datos MySQL)
