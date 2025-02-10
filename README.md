@@ -39,6 +39,7 @@ Repositorio usado para las clases de IAW
 - [Lunes 03/02/2025](/Schedule/UD4/Lunes%2003-02-2025.md): Agregamos Copilot Free a Visual Studio Code y terminamos el ejercicio propuesto el pasado jueves.
 - [Miércoles 05/02/2025](/Schedule/UD4/Miércoles%2005-02-2025.md): Comenzamos el estudio del framework Flask y sus templates.
 - [Jueves 06/02/2025](/Schedule/UD4/Jueves%2006-02-2025.md): Framework Flask. Repaso de templates y herencia. 
-- [Lunes 10/02/2025](/Schedule/UD4/Lunes%2010-02-2025.md): Framework Flask. Nuestra agenda con persistencia en MySQL:
-    - [Repositorio de github flask-agenda](https://github.com/joseliza/flask-agenda). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en un diccionario)
-    - [Repositorio de github flask-agenda-db](https://github.com/joseliza/flask-agenda-db). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en una base de datos MySQL)
+- [Lunes 10/02/2025](/Schedule/UD4/Lunes%2010-02-2025.md): Framework Flask. Nuestra agenda con persistencia en MySQL y presentación de la Tarea 4.1:
+    - [Repositorio de github flask-agenda](https://github.com/joseliza/flask-agenda). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en un diccionario).
+    - [Repositorio de github flask-agenda-db](https://github.com/joseliza/flask-agenda-db). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en una base de datos MySQL).
+    - [TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask](/Exercises/UD4/TAREA%204.1.%20Desarrollo%20y%20Despliegue%20de%20una%20Aplicación%20Web%20con%20Flask.pdf).
