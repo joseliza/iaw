@@ -42,4 +42,4 @@ Repositorio usado para las clases de IAW
 - [Lunes 10/02/2025](/Schedule/UD4/Lunes%2010-02-2025.md): Framework Flask. Nuestra agenda con persistencia en MySQL:
     - [Repositorio de github flask-agenda](https://github.com/joseliza/flask-agenda). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en un diccionario)
     - [Repositorio de github flask-agenda-db](https://github.com/joseliza/flask-agenda-db). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en una base de datos MySQL)
-- [Miércoles 12/02/2025](): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
+- [Miércoles 12/02/2025](/Schedule/UD4/Miércoles%2012-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
