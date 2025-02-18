@@ -46,3 +46,4 @@ Repositorio usado para las clases de IAW
 - [Miércoles 12/02/2025](/Schedule/UD4/Miércoles%2012-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
 - [Jueves 13/02/2025](/Schedule/UD4/Jueves%2013-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
 - [Lunes 17/02/2025](/Schedule/UD4/Lunes%2017-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
+- [Miércoles 19/02/2025](/Schedule/UD4/Miércoles%2019-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask. Hoy os explico cómo realizar un registro y login de usuarios.
