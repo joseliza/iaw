@@ -46,4 +46,6 @@ Repositorio usado para las clases de IAW
 - [Miércoles 12/02/2025](/Schedule/UD4/Miércoles%2012-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
 - [Jueves 13/02/2025](/Schedule/UD4/Jueves%2013-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
 - [Lunes 17/02/2025](/Schedule/UD4/Lunes%2017-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
-- [Miércoles 19/02/2025](/Schedule/UD4/Miércoles%2019-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask. Hoy os explico cómo realizar un registro y login de usuarios.
+- [Miércoles 19/02/2025](/Schedule/UD4/Miércoles%2019-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask. Hoy os explico cómo realizar un registro y login de usuarios:
+    - [Repositorio de github flask-agenda-db-login](https://github.com/joseliza/flask-agenda-db-login). Ejemplo muy básico de agenda de contactos creada con python y flask (contactos en una base de datos MySQL) con login y registro de usuarios.
+- [Jueves 20/02/2025](/Schedule/UD4/Jueves%2020-02-2025.md): TAREA 4.1. Desarrollo y Despliegue de una Aplicación Web con Flask.
